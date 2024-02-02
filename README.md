@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Ashim267
-- 👀 I’m interested in Data Analytics.
-- 🌱 I’m currently learning Python and SQL.
-- 💞️ I’m looking to collaborate on any data analytics projects.
+- 🌱 I’m currently learning Python, Java, SQL.
 - 📫 How to reach me achand11@my.fisk.edu , https://www.linkedin.com/in/ashim-chand-5b5b13198/ 
 
 <!---
